@@ -1,0 +1,6 @@
+d1 $ jux (0.125 <~) $ every 2 (rev)
+   $ sound "[bd bd:2] [bd:1 [bd:4 [bd:4 bd:4] bd:4] bd:4]"
+   # speed "1.8 0.5" # crush "6" # shape "0.8"
+   # lpf (slow 5 $ sine1 * 2000 + 500) # lpq "0.6" # gain "0.55"
+
+d1 silence
