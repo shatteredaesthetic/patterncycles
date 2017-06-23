@@ -1,0 +1,6 @@
+d1 $ jux (0.25 <~) $ every 2 (rev)
+   $ spread ($) [fast 2, slow 3, fast 4]
+   $ striateL' 4000 (1/2000) 3 $ sound "[pad, pad:1/2, pad:2*3]" # crush "[3 7]/4"
+   # speed (scale 0.5 8 $ irand 8)
+
+d1 silence
