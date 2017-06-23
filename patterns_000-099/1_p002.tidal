@@ -1,0 +1,11 @@
+d1 $ jux (0.25 <~)
+   $ spread (\x -> every x (0.0625 ~>)) [2, 4]
+   $ stack
+      [ s "arpy*8"
+           # n (irand 30)
+      , sound "[~ [~ tabla:1*13] ~]"
+           # room "0.7"
+           # gain "0.75"
+      ]
+
+d1 silence
