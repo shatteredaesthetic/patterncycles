@@ -1,0 +1,18 @@
+d1 $ stack
+   [ every 4 (rev) $ sound "bd*2 [bd [sn sn*2 sn] sn]"
+        # gain "0.85"
+   , sound "bd bd odx, [odx hh odx hh]"
+        # crush "4"
+   , every 2 (rev) $ sound "hh(3,7)"
+                   # shape "0.6" # gain "0.5"
+                   # lpq "0.6" # lpf (slow 4 $ sine1 * 10000)
+   , degrade $ jux (rev)
+             $ sound "odx(7,16,14)"
+             # crush "3" # speed "0.1" # gain "0.7"
+   , every 3 (0.25 ~>) $ every 2 (0.25 <~)
+                       $ striate 36
+                       $ sound "sax"
+                       # gain "0.8" # speed "0.2"
+   ]
+
+d1 silence
