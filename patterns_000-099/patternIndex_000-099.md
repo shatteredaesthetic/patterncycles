@@ -6,3 +6,4 @@ Pattern # | Description
 003 | lazy beat with noise ("7th Circle of Beatboxing")
 004 | Breakin' Beastie
 005 | Jittery drums ("Skrillex Nightmare")
+006 | tablas and eerie drones ("Delphi Ghosts")
