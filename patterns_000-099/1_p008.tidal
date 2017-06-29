@@ -1,0 +1,10 @@
+d1 $ foldEvery [2, 4, 6] ((0.25 <~) . (iter $ irand 5))
+   $ foldEvery [3, 5, 7] (jux (0.125 <~))
+   $ stut 5 0.6 (-0.2)
+   $ s "latibro*4 [latibro:4 ~] latibro:1*4 [~ latibro:6*2]"
+   # n (every 4 (slow 0.8) $ run 11)
+   # up "[0*2 1*3 0*5 3*7 0]/2"
+   |+| speed "[2 7 5]/3" # crush "5"
+   # lpf (slow 13 $ sine1 * 2048 + 512) # lpq "0.53"
+
+d1 silence
