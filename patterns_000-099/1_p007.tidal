@@ -1,0 +1,13 @@
+d1 $ stack
+   [ palindrome $ every 2 (jux (0.125 <~))
+        $ sound "bd:2 [~ [~ bd:3]]"
+        # voice (slow 4 "0 0.25 0.5 0.75") # slide "[0 0.1]/8" # speed "-4"
+        # delay "0.7" # delayfeedback "0.55" # delaytime "0.3"
+   , every 3 (jux (0.125 <~))
+        $ (spread (striate' 1000) [(1/500), (1/250), (1/125)]
+        $ sound "~ [cp:1 ~] cp")
+        # vowel "[e*2 o*3 a]/2" # gain (scale 0.5 0.7 $ density 5 sine1)
+        # speed (scale 0.3 1 $ density 3.7 sine1)
+   ]
+
+d1 silence

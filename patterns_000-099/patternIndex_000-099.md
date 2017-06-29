@@ -7,3 +7,4 @@ Pattern # | Description
 004 | Breakin' Beastie
 005 | Jittery drums ("Skrillex Nightmare")
 006 | tablas and eerie drones ("Delphi Ghosts")
+007 | Lazy Munitions
