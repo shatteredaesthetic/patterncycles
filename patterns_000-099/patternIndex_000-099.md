@@ -9,3 +9,4 @@ Pattern # | Description
 006 | tablas and eerie drones ("Delphi Ghosts")
 007 | Lazy Munitions
 008 | jittery, random synth hits ("synthwinds")
+009 | Jittery Mandolin ("Good Ole Country Meth-Making")

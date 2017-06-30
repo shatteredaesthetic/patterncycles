@@ -1,0 +1,7 @@
+d1 $ jux (# accelerate "-0.3")
+   $ foldEvery [2, 3, 4] (0.125 <~)
+   $ s "supermandolin*8" # midinote "[80!7 78!3 79!5]/4"
+   # sustain "1 0.25 2 1" # delay "0.6" # delaytime "0.6" # delayfeedback "0.5"
+   # vowel "[o u]/2" # gain (scale 0.3 0.6 $ density 5 sine1)
+
+d1 silence
