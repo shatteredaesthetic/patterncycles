@@ -11,3 +11,4 @@ Pattern # | Description
 008 | jittery, random synth hits ("synthwinds")
 009 | Jittery Mandolin ("Good Ole Country Meth-Making")
 010 | hhat beat, bells ("Club Notre Dame")
+011 | synth chords moving ("ocean of moog")
