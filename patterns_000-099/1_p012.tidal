@@ -1,0 +1,19 @@
+d1 $ stack
+   [ stut' 8 (0.125) (|*| gain "0.4 0.7")
+        $ slow 2 $ jux (iter 5)
+        $ sound "{bd:2(4,7), [hh hh:3 [hh:1 hh]]/2}"
+        # speed "-1"
+        # shape "0.4"
+   , slow 3 $ jux (0.125 <~) $ palindrome
+        $ sound "numbers:1 numbers:2 numbers:3 numbers:4"
+        # delay "0.4" # delaytime "0.3" # delayfeedback "0.5"
+        # speed "-0.6" # shape "0.3" # gain "0.8"
+   , slow 16 $ striate' 8000 (5/128)
+        $ s "arpy*13" # n (run $ (+) 5 $ irand 8)
+        # shape "0.3" # gain "0.4"
+        # delay "0.5" # delaytime "1" # delayfeedback "0.6"
+        # up "[0 1 3 1]*4"
+        # crush "8"
+   ]
+
+d1 silence
