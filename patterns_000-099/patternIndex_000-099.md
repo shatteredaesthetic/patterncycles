@@ -13,3 +13,4 @@ Pattern # | Description
 010 | hhat beat, bells ("Club Notre Dame")
 011 | synth chords moving ("Ocean of Moog")
 012 | stuttering beat, creepy counting ("Subliminal Broadcast")
+013 | jittery beat, melodic noise part, sputtering bass ("Lizard Physics")

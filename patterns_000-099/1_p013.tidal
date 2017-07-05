@@ -1,0 +1,15 @@
+d1 $ stack
+   [ foldEvery [2,3,4] (0.125 <~)
+        $ stut' 3 (1/5) (# vowel "{a e i o u}%2")
+        $ s (mask ("[1 1 ~ 1 1 ~ 1 1]*3 [~ 1]" :: Pattern Bool) "[[bd*3 bd:1*5], hh(3,5,2)]")
+        # n (run 8) # gain (slow 3 $ scale 0.7 1 sine)
+   , chop 16 $ jux (iter 5) $ smash 3 [2,3,4]
+        $ s "[jvbass*8 [jvbass:2*3 jvbass*5]/2 jvbass:1*5]/3"
+        # n (run $ irand 13)
+        # crush 5
+   , slow 2 $ chop 15 $ jux (slow 4 . rev . (0.25 <~))
+        $ sound "sitar"
+        # crush 3 # gain 0.8
+   ]
+
+d1 silence
