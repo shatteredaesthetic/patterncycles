@@ -1,0 +1,9 @@
+d1 $ chop 16 $ jux (rev) $ stack
+   [ brak $ jux (0.125 <~) $ sound "[bd bd?] bd/3"
+   , foldEvery [2,3,4] (iter 5) $ sound "hh(3,5,2)"
+   ]
+   # nudge "[0 0.23]*3"
+   # bpf (scale 200 3000 $ slow 3 sine)
+   # bpq 0.7
+
+d1 silence
