@@ -1,0 +1,16 @@
+d1  $ stack
+   [ jux (rev) $ every 2 (0.125 <~) $ chop 17
+        $ mask ("[1 1 1] ~ [~ [1 1] [~ 1 ~] [1 1] ~]" :: Pattern Bool)
+        $ spread ($) [(0.125 <~), (iter 7), (0.125 ~>)]
+        $ stut 3 0.6 (-0.1) $ s "amencutup*32"
+        # n (run 13) # gain 0.9
+   , s "arpy*10" # n (run 9)
+        # up "<0 5 2 [6 1]>"
+        # crush 1.8 # gain (slow 3 $ scale 0.6 0.9 $ sine)
+        # bpf (slow 7 $ sine1 * 2048 + 512) # bpq "3"
+   , every 2 (striate 2) $ stut 5 0.6 0.25 $ jux (0.125 <~)
+        $ sound "east:2*3 ! [east:2 east:2] !"
+        # gain 0.8
+   ]
+
+d1 silence
