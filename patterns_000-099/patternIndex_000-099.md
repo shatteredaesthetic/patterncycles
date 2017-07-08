@@ -16,3 +16,4 @@ Pattern # | Description
 013 | jittery beat, melodic noise part, sputtering bass ("Lizard Physics")
 014 | jumpy kick and hhats ("Ball is Life")
 015 | synth ascending line, amen cut up, wood block ("Ping Pong in the 80's")
+016 | percussion, kicks in stereo ("Dingo Drumline")

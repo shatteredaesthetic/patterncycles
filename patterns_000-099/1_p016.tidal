@@ -1,0 +1,13 @@
+d1 $ foldEvery [2,4,6] (scramble 4) $ stack
+   [ jux ((0.125 <~) . iter 5)
+        $ sound "[bass2*4 bass2 bass2*2 bass2*3]/2"
+        # pan 0
+   , jux ((0.25 ~>) . iter 8)
+        $ sound "[bass2:2*3 bass2:2*2 bass2:2 bass2:2*4]%2"
+        # pan 1
+   , striate 13 $ sound "[~ cp ~] [cp ~ cp]/3 [~ cp ~]*3 [cp ~ cp]"
+        # bpf (slow 3 $ scale 250 3000 $ sine)
+   , sound "hh:10*4" # gain 1.1 # crush 6
+   ]
+
+d1 silence
