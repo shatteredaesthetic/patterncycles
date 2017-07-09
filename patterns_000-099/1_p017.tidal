@@ -1,0 +1,14 @@
+d1 $ stut 13 0.4 0.12
+   $ stack
+      [ slow 2 $ striate 3
+           $ jux (0.125 <~)
+           $ sound "alphabet:5 alphabet:20 alphabet:2 alphabet:10"
+           # pan (slow 5 $ scale 0 1 sine)
+      , slow 3 $ striate 5
+           $ jux (0.125 ~>)
+           $ sound "[alphabet:11 alphabet:14 alphabet:21 alphabet:4]/2"
+           # pan (slow 3 $ scale 0 1 sine)
+      ]
+      # crush (slow 5 $ scale 2 5 sine)
+
+d1 silence
