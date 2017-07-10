@@ -1,0 +1,7 @@
+d1 $ jux (|+| speed "1.2") $ slowspread (slow) [32, 16, 8]
+   $ stut 3 0.4 0.4
+   $ (spread (striate' 10000) [(1/128), (1/512), (1/256)] $ sound "sax*3")
+   # speed (scale 0.4 0.8 $ density 3 sine1)
+   # vowel "[e i e i o]/3"
+
+d1 silence

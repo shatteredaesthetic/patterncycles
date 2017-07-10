@@ -19,3 +19,4 @@ Pattern # | Description
 016 | percussion, kicks in stereo ("Dingo Drumline")
 017 | 'love' and 'fuck' spelled out, and screwed ("Robot Finds Lust")
 018 | lfo beat under a rhythmic typist ("This Is How You Tabulate")
+019 | spurts of noise in stereo ("Old MacDonald's Mushroom Farm")
