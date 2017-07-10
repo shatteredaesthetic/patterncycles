@@ -1,0 +1,18 @@
+d1 $ stack
+   [ every 2 (rev)
+        $ jux (0.125 <~)
+        $ sound "bd:2(4,9) bd:1(5,9)"
+        # shape "0.7" # gain "0.7 0.6"
+        # crush "2"
+        |=| up "0 3 1 6"
+   , every 3 (rev)
+        $ jux (0.375 <~)
+        $ sound "odx(3,4)"
+        # crush "2" # speed "0.6"
+        # gain "0.7"
+   , every 2 (jux (0.125 <~)) $ every 3 (jux (0.25 ~>)) $ every 5 (rev)
+        $ sound "sd(4,7,2)"
+        # gain "0.6" # lpf (slow 5 $ sine1 * 3000 + 1000) # lpq "0.3"
+   ]
+
+d1 silence

@@ -18,3 +18,4 @@ Pattern # | Description
 015 | synth ascending line, amen cut up, wood block ("Ping Pong in the 80's")
 016 | percussion, kicks in stereo ("Dingo Drumline")
 017 | 'love' and 'fuck' spelled out, and screwed ("Robot Finds Lust")
+018 | lfo beat under a rhythmic typist ("This Is How You Tabulate")
