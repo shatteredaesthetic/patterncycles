@@ -1,0 +1,7 @@
+d1 $ jux ((0.125 <~) . iter 5)
+   $ stut 3 0.4 0.15 $ smash 97 [4,2,5]
+   $ (striate' 61 0.02 $ fastcat [ sound "toys:4", sound "toys:10" ])
+   |+| speed "[[1 0.7 1.8 1.3 2.4 0.3], [~ 0.4 ~]*2, [2.3 5 ~ 0.8]/3]"
+   # vowel "<[a i o]/5, [u e*3 u]/2>"
+
+d1 silence
