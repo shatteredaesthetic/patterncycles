@@ -1,0 +1,9 @@
+d1 $ every 2 (rev . chop 34)
+   $ smash 8 [2,3,5]
+   $ sometimes (0.13 <~)
+   $ jux (0.21 ~>)
+   $ s "{jungbass:2*3 jungbass:4*5, jungbass:3(34,21,3)}"
+   # n (every 3 (iter 5) $ 8)
+   # speed "1 1 2 3 5 8 13"
+
+d1 silence

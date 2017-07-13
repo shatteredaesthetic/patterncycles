@@ -21,3 +21,4 @@ Pattern # | Description
 018 | lfo beat under a rhythmic typist ("This Is How You Tabulate")
 019 | spurts of noise in stereo ("Old MacDonald's Mushroom Farm")
 020 | 'colors' and 'numbers', tweaked like crazy ("Broken Transmission from Malbolge")
+021 | fibonacci numbers adjusting the speed of kicks ("Cyberpunk Grease Painting Dripping on the Floor")
