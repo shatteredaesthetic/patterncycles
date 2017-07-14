@@ -1,0 +1,5 @@
+d1 $ superimpose (slow 2 . striate 8)
+   $ every 3 (chop 34) $ every 2 (0.13 <~)
+   $ s "feelfx*3 tacscan*4" # n (run $ irand 13)
+
+   d1 silence

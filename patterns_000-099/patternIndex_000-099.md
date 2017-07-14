@@ -22,3 +22,4 @@ Pattern # | Description
 019 | spurts of noise in stereo ("Old MacDonald's Mushroom Farm")
 020 | 'colors' and 'numbers', tweaked like crazy ("Broken Transmission from Malbolge")
 021 | fibonacci numbers adjusting the speed of kicks ("Cyberpunk Grease Painting Dripping on the Floor")
+022 | Random spurts of synthy goodness ("Pixie Sirens")
