@@ -23,3 +23,4 @@ Pattern # | Description
 020 | 'colors' and 'numbers', tweaked like crazy ("Broken Transmission from Malbolge")
 021 | fibonacci numbers adjusting the speed of kicks ("Cyberpunk Grease Painting Dripping on the Floor")
 022 | Random spurts of synthy goodness ("Pixie Sirens")
+023 | simple beat using fx sounds ("Martial Martian")

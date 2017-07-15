@@ -1,0 +1,10 @@
+d1 $ stack
+   [ chop 13 $ sound "tacscan:14"
+        # coarse 21 # crush 5
+   , whenmod 2 1 (const $ sound "[~ tacscan:13*2]")
+        $ sound "[~ tacscan:13]"
+   , whenmod 5 4 (const $ sound "tacscan:4" # gain 0.7)
+        $ sound ""
+   ]
+
+d1 silence
