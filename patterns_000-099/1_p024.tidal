@@ -1,0 +1,7 @@
+d1 $ jux (rev . (0.125 <~))
+   $ (every 2 (0.25 ~>)
+        $ sound "feel:2*3 [feel:3*5 feel:6*2]/2 [feel:3*13]/2"
+        # vowel "[a e o]/3")
+   # crush (scale 3 7 $ slow 3 sine)
+
+d1 silence

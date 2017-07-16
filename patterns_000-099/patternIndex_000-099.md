@@ -24,3 +24,4 @@ Pattern # | Description
 021 | fibonacci numbers adjusting the speed of kicks ("Cyberpunk Grease Painting Dripping on the Floor")
 022 | Random spurts of synthy goodness ("Pixie Sirens")
 023 | simple beat using fx sounds ("Martial Martian")
+024 | stuttering beat with effects, sounds like the grudge ("Grudgeboxing")
