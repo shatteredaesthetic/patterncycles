@@ -1,0 +1,14 @@
+d1 $ density 1.3
+   $ stack
+   [ sound "[feelfx/4, feelfx:2/2, [~ feelfx:5]/2]"
+   , jux (0.25 <~)
+        $ stut 3 (0.6) (-0.25)
+        $ (striate 8 $ sound "[~ feelfx:4]/3")
+        # up (run 13)
+        # gain (scale 0.6 0.9 $ density 2 sine)
+   , jux (rev) $ sound "[~ ~ [~ ~ feelfx:6] feelfx:7]/2"
+        # sustain 0.21 # coarse 8 # crush 5
+        # gain 0.8 # vowel "[o a i]/3"
+   ]
+
+d1 silence

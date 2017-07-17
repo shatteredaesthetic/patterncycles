@@ -25,3 +25,4 @@ Pattern # | Description
 022 | Random spurts of synthy goodness ("Pixie Sirens")
 023 | simple beat using fx sounds ("Martial Martian")
 024 | stuttering beat with effects, sounds like the grudge ("Grudgeboxing")
+025 | laidback beat with feelfx sounds ("Lowflyer")
