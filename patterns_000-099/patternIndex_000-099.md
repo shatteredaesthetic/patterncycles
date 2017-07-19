@@ -28,3 +28,4 @@ Pattern # | Description
 025 | laidback beat with feelfx sounds ("Lowflyer")
 026 | experiments in striating simple percussion beats ("Wringing out the Metal")
 027 | lofi random amen cutup over synths in waves ("A Graphing Calculator Dies in Dreamtime")
+028 | random bass hits using jux', with a glitchy 'closer' beat ("Six Inch Nails")

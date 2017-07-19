@@ -1,0 +1,10 @@
+d1 $ stack
+   [ every 2 (iter 3) $ striate 2
+        $ jux' [(0.21 ~>), (0.13 <~), id, (0.13 ~>), (0.21 <~)]
+        $ n (off 0.13 (+6) $ off 0.34 (+9) $ slow 3 $ irand 13) # s "bass3"
+        # bpf (scale 256 4096 $ slow 3 saw)
+        # bpq 0.7 # gain 0.8
+   , slow 3 $ sound "[[glitch ! ! [~ glitch ~ ~]],[~ glitch:6 ~ glitch:6],glitch:4*16]"
+   ]
+
+d1 silence
