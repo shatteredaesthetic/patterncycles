@@ -27,3 +27,4 @@ Pattern # | Description
 024 | stuttering beat with effects, sounds like the grudge ("Grudgeboxing")
 025 | laidback beat with feelfx sounds ("Lowflyer")
 026 | experiments in striating simple percussion beats ("Wringing out the Metal")
+027 | lofi random amen cutup over synths in waves ("A Graphing Calculator Dies in Dreamtime")

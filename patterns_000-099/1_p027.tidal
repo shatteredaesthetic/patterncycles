@@ -1,0 +1,13 @@
+d1 $ stack
+   [ spin 5 $ jux (0.13 <~)
+        $ slow 3 $ striate 13
+        $ n (irand 31) # s "amencutup"
+        # speed "[[1 0.7 0.3 0.8 0.5]/2, [2 7 4 9 5 7 5]/3, [13 9 11 17]/5]"
+        # crush (scale 3 8 $ slow 5 sine)
+        # coarse (scale 3 8 $ density 13 $ every 2 (rev) $ run 5)
+   , n (density 8 $ every 2 (rev) $ run 13) # s "arpy"
+        # speed "[[0.2 0.6 0.4 0.8 0.5]/2, [3 7 4 6 3 5]/5, [13*5]/3]"
+        # gain (scale 0.45 0.7 $ slow 2 sine)
+   ]
+
+d1 silence
