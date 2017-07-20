@@ -1,0 +1,6 @@
+d1 $ slow 5 $ every 4 (density 5) $ spin 3
+   $ n (run 8) # s "arpy"
+   # speed "[[0.1,0.3,0.2,0.5,0.4,0.6]/5,[2,3,4,5]/3,[11,10,9,8,7]/4]"
+   # voice (slow 5 "[0 0.25 0.5 0.75]/4") # vowel "[u [i e i] a]/5"
+
+d1 silence
