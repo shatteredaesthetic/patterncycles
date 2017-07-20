@@ -1,32 +1,32 @@
-Pattern # | Description
+Pattern # | Description | Name
 ---|---
-000 | High, drippy tones ("SETI")
-001 | Random Stereo chirps ("Insect Revolt")
-002 | Jumpy, "Pinball Wizard"-like synth ("Skeeball Wizard")
-003 | lazy beat with noise ("7th Circle of Beatboxing")
-004 | Breakin' Beastie
-005 | Jittery drums ("Skrillex Nightmare")
-006 | tablas and eerie drones ("Delphi Ghosts")
-007 | Lazy Munitions
-008 | jittery, random synth hits ("Synthwinds")
-009 | Jittery Mandolin ("Good Ole Country Meth-Making")
-010 | hhat beat, bells ("Club Notre Dame")
-011 | synth chords moving ("Ocean of Moog")
-012 | stuttering beat, creepy counting ("Subliminal Broadcast")
-013 | jittery beat, melodic noise part, sputtering bass ("Lizard Physics")
-014 | jumpy kick and hhats ("Ball is Life")
-015 | synth ascending line, amen cut up, wood block ("Ping Pong in the 80's")
-016 | percussion, kicks in stereo ("Dingo Drumline")
-017 | 'love' and 'fuck' spelled out, and screwed ("Robot Finds Lust")
-018 | lfo beat under a rhythmic typist ("This Is How You Tabulate")
-019 | spurts of noise in stereo ("Old MacDonald's Mushroom Farm")
-020 | 'colors' and 'numbers', tweaked like crazy ("Broken Transmission from Malbolge")
-021 | fibonacci numbers adjusting the speed of kicks ("Cyberpunk Grease Painting Dripping on the Floor")
-022 | Random spurts of synthy goodness ("Pixie Sirens")
-023 | simple beat using fx sounds ("Martial Martian")
-024 | stuttering beat with effects, sounds like the grudge ("Grudgeboxing")
-025 | laidback beat with feelfx sounds ("Lowflyer")
-026 | experiments in striating simple percussion beats ("Wringing out the Metal")
-027 | lofi random amen cutup over synths in waves ("A Graphing Calculator Dies in Dreamtime")
-028 | random bass hits using jux', with a glitchy 'closer' beat ("Six Inch Nails")
-029 | experiments with giving dense patterns to speed w/ synth & spin ("Synth and Spin")
+000 | High, drippy tones | "SETI"
+001 | Random Stereo chirps | "Insect Revolt"
+002 | Jumpy, "Pinball Wizard"-like synth | "Skeeball Wizard"
+003 | lazy beat with noise | "7th Circle of Beatboxing"
+004 | Polyrhythm with an lfo in one voice, insecty sounds | "Breakin' Beastie"
+005 | Jittery drums | "Skrillex Nightmare"
+006 | tablas and eerie drones | "Delphi Ghosts"
+007 | fun with simple beats and striate, trying spread | "Lazy Munitions"
+008 | jittery, random synth hits | "Synthwinds"
+009 | Jittery Mandolin | "Good Ole Country Meth-Making"
+010 | hhat beat, bells | "Club Notre Dame"
+011 | synth chords moving | "Ocean of Moog"
+012 | stuttering beat, creepy counting | "Subliminal Broadcast"
+013 | jittery beat, melodic noise part, sputtering bass | "Lizard Physics"
+014 | jumpy kick and hhats | "Ball is Life"
+015 | synth ascending line, amen cut up, wood block | "Ping Pong in the 80's"
+016 | percussion, kicks in stereo | "Dingo Drumline"
+017 | 'love' and 'fuck' spelled out, and screwed | "Robot Finds Lust"
+018 | lfo beat under a rhythmic typist | "This Is How You Tabulate"
+019 | spurts of noise in stereo | "Old MacDonald's Mushroom Farm"
+020 | 'colors' and 'numbers', tweaked like crazy | "Broken Transmission from Malbolge"
+021 | fibonacci numbers adjusting the speed of kicks | "Cyberpunk Grease Painting Dripping on the Floor"
+022 | Random spurts of synthy goodness | "Pixie Sirens"
+023 | simple beat using fx sounds | "Martial Martian"
+024 | stuttering beat with effects, sounds like the grudge | "Grudgeboxing"
+025 | laidback beat with feelfx sounds | "Lowflyer"
+026 | experiments in striating simple percussion beats | "Wringing out the Metal"
+027 | lofi random amen cutup over synths in waves | "A Graphing Calculator Dies in Dreamtime"
+028 | random bass hits using jux', with a glitchy 'closer' beat | "Six Inch Nails"
+029 | experiments with giving dense patterns to speed w/ synth & spin | "Synth and Spin"
