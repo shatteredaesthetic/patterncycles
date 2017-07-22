@@ -30,3 +30,4 @@ Pattern # | Description | Name
 027 | lofi random amen cutup over synths in waves | "A Graphing Calculator Dies in Dreamtime"
 028 | random bass hits using jux', with a glitchy 'closer' beat | "Six Inch Nails"
 029 | experiments with giving dense patterns to speed w/ synth & spin | "Synth and Spin"
+030 | random bass hits with jux' again | "tommy vs tommy vs tommy"
