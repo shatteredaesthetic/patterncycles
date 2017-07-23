@@ -1,0 +1,8 @@
+d1 $ superimpose (# speed "[[0.05,0.3,0.15,0.43]/3,[1,2,3,4,5]/5,[11,7,13]/2]")
+   $ jux (0.125 <~)
+   $ (striate 8 $ slow 2 $ iter 5 $ n (irand 16) # s "dist")
+   # crush (scale 3 8 $ slow 5 sine)
+   # coarse (choose [3,4,5,6,7,8])
+   # gain (scale 0.3 1 $ slow 8 saw)
+
+d1 silence
