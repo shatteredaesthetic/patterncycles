@@ -33,3 +33,4 @@ Pattern # | Description | Name
 030 | random bass hits with jux' again | "Tommy vs Tommy vs Tommy"
 031 | random beats down-sampled and bitcrushed, gain-ramped | "Industrial Train's A-Comin'"
 032 | fun with randomness and sax/alphabet tones | "Subliminal Messages From Jazz Legends"
+033 | random bubbles masked and 'speeded' | "Beats on a Bird Body"
