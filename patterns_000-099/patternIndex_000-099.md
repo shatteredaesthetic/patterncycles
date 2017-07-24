@@ -32,3 +32,4 @@ Pattern # | Description | Name
 029 | experiments with giving dense patterns to speed w/ synth & spin | "Synth and Spin"
 030 | random bass hits with jux' again | "Tommy vs Tommy vs Tommy"
 031 | random beats down-sampled and bitcrushed, gain-ramped | "Industrial Train's A-Comin'"
+032 | fun with randomness and sax/alphabet tones | "Subliminal Messages From Jazz Legends"
