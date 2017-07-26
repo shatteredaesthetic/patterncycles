@@ -1,0 +1,8 @@
+d1 $ jux' [iter 5, rev, id, rev, iter 5]
+   $ striate' 3 0.01
+   $ n (irand 38) # s "diphone"
+   # crush 3 # coarse 16
+   # lpf 644 # lpq (slow 3 sawwave4)
+   # room 0.5 # size 0.76
+
+d1 silence

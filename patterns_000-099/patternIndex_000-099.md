@@ -34,3 +34,4 @@ Pattern # | Description | Name
 031 | random beats down-sampled and bitcrushed, gain-ramped | "Industrial Train's A-Comin'"
 032 | fun with randomness and sax/alphabet tones | "Subliminal Messages From Jazz Legends"
 033 | random bubbles masked and 'speeded' | "Beats on a Bird Body"
+034 | words, mangled into popcorn | "heated maize"
