@@ -1,0 +1,6 @@
+d1 $ spread iter [3,4,5]
+   $ jux ((# lpf 815) . rev)
+   $ sound "bd*2 [bd [sn sn*2 sn] sn]"
+   # speed ((*3) <$> (slow 2 sine))
+
+d1 silence

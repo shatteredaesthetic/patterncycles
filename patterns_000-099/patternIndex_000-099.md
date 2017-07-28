@@ -36,3 +36,4 @@ Pattern # | Description | Name
 033 | random bubbles masked and 'speeded' | "Beats on a Bird Body"
 034 | words, mangled into popcorn | "heated maize"
 035 | more fun with sitar and tabla | "Kush Haze"
+036 | simple drum beat, with sine wave in speed | "Bullfrog Concerto"
