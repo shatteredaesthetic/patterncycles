@@ -35,3 +35,4 @@ Pattern # | Description | Name
 032 | fun with randomness and sax/alphabet tones | "Subliminal Messages From Jazz Legends"
 033 | random bubbles masked and 'speeded' | "Beats on a Bird Body"
 034 | words, mangled into popcorn | "heated maize"
+035 | more fun with sitar and tabla | "Kush Haze"

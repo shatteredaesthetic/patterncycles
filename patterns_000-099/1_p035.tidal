@@ -1,0 +1,7 @@
+d1 $ stack
+   [ slow 8 $ striateL' 1024 (1/64) 5 $ sound "sitar:6" # speed "0.5" # gain "0.7"
+   , slowspread ($) [(|+| speed "1.3"), jux (iter 5), (|+| speed "0.8"), jux (iter 3) ]
+        $ sound "tabla:1*4"
+   ]
+
+d1 silence
