@@ -1,0 +1,15 @@
+d1 $ stack
+   [ sound "808*30"
+        # speed "0.8" # gain 0.5
+        # cutoff (scale 100 1000 $ slow 8.3 sine) # resonance 0.1
+   , striate' 34 0.01 $ sound "[cp]/3"
+        # gain 0.7 # speed "[-0.6, 3, 0.4, -2]/3"
+        # delay 0.8 # delaytime 0.15 # delayfeedback 0.6
+   , sound "<bd*2 [bd bd?] bd*3>"
+        # cutoff 750 # resonance 0.1
+   , jux (0.17 <~) $ sound "hh*4"
+        # gain (scale 1 0.5 $ slow 3 saw)
+        # speed "[[0.1,0.05,0.3,0.21]/3 [8,5,3,9,7]/5 [17,21,13]/2]"
+   ]
+
+d1 silence

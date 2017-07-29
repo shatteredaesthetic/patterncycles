@@ -37,3 +37,4 @@ Pattern # | Description | Name
 034 | words, mangled into popcorn | "heated maize"
 035 | more fun with sitar and tabla | "Kush Haze"
 036 | simple drum beat, with sine wave in speed | "Bullfrog Concerto"
+037 | a basic beat, with a little tweaking | "Oskar Grouch: Final Boss"
