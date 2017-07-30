@@ -38,3 +38,4 @@ Pattern # | Description | Name
 035 | more fun with sitar and tabla | "Kush Haze"
 036 | simple drum beat, with sine wave in speed | "Bullfrog Concerto"
 037 | a basic beat, with a little tweaking | "Oskar Grouch: Final Boss"
+038 | simple beat with some synth chords, then everything gets weird | "Super Mario Panic Attack"

@@ -1,0 +1,13 @@
+d1 $ stack
+   [ juxBy 0.4 (striate 13 . striate' 3 0.01)
+        $ sound "[[bd bd bd bd*2]/3, [~ sn:1 ~ ~]/2]"
+        # bpf (scale 150 3000 $ fast 13 sine)
+        # bpq 4
+   , jux (iter 5 . rev)
+        $ striate 5
+        $ n "[[ef4, b4]/3, [<[a3, c4, eb4, g4]*2 [d3, f3, a3, c4]>]]" # s "supersquare"
+        # speed "[[2,3,4]/2, [0.1,0.3,0.5,0.2]/5, [9,11,9,11,9,11]/3, [4,3,2]/4]"
+        # gain 0.6
+   ]
+
+d1 silence
