@@ -40,3 +40,4 @@ Pattern # | Description | Name
 037 | a basic beat, with a little tweaking | "Oskar Grouch: Final Boss"
 038 | simple beat with some synth chords, then everything gets weird | "Super Mario Panic Attack"
 039 | resurrecting a busted pattern playing on a sax sample | "Insect Urinal"
+040 | creepy synth thing, drenched in verb | "Odder Items"
