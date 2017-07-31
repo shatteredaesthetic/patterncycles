@@ -39,3 +39,4 @@ Pattern # | Description | Name
 036 | simple drum beat, with sine wave in speed | "Bullfrog Concerto"
 037 | a basic beat, with a little tweaking | "Oskar Grouch: Final Boss"
 038 | simple beat with some synth chords, then everything gets weird | "Super Mario Panic Attack"
+039 | resurrecting a busted pattern playing on a sax sample | "Insect Urinal"

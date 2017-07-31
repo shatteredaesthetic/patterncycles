@@ -1,0 +1,9 @@
+d1 $ spin 5 $ slow 5
+   $ jux' [id, (0.125 <~)]
+   $ every 2 (jux' [(0.125 <~), id]) $ every 3 (jux' [id, (0.125 <~)])
+   $ every 3 (jux' [(0.125 <~), id]) $ every 4 (rev . brak)
+   $ (striate 3000 $ sound "sax*3")
+   # speed (scale 0.2 13 $ slow 2 saw)
+   # delay 0.3 # delayfeedback 0.6 # delaytime 0.3
+
+d1 silence
