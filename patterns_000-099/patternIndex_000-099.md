@@ -41,3 +41,4 @@ Pattern # | Description | Name
 038 | simple beat with some synth chords, then everything gets weird | "Super Mario Panic Attack"
 039 | resurrecting a busted pattern playing on a sax sample | "Insect Urinal"
 040 | creepy synth thing, drenched in verb | "Odder Items"
+041 | taking the creepy moan sound to digital extremes | "Cyber Prairie - Nighttime"
