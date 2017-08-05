@@ -42,3 +42,4 @@ Pattern # | Description | Name
 039 | resurrecting a busted pattern playing on a sax sample | "Insect Urinal"
 040 | creepy synth thing, drenched in verb | "Odder Items"
 041 | taking the creepy moan sound to digital extremes | "Cyber Prairie - Nighttime"
+042 | 'love' and 'fuck' striated with different speeds | "Have Ourselves a Mosquito Jam"
